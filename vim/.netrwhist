@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/udogan'
+let g:netrw_dirhist_2='/home/udogan/.pulse'
+let g:netrw_dirhist_3='/home/udogan/Desktop'
+let g:netrw_dirhist_4='/home/udogan/Desktop/hede'
+let g:netrw_dirhist_5='/home/udogan/.vim/nerdtree_plugin'
+let g:netrw_dirhist_6='/home/udogan/public_html'
+let g:netrw_dirhist_7='/etc/php5/apache2/conf.d'
+let g:netrw_dirhist_8='/etc/apt/preferences.d'
